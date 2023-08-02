@@ -1,1 +1,2 @@
-this is a test for git rm command 
+this is a test for git rm command
+add a line 
