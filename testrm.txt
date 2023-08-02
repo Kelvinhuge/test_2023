@@ -1,3 +1,4 @@
 this is a test for git rm command
 add a line 
-add add 
+add add
+add 3 
